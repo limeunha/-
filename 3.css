@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+/* 초기화 CSS */
+body {
+   margin: 0;
+   padding: 0;
+   font-size: 0.9em;
+}
+
+dl,
+ul,
+ol,
+menu,
+li {
+   list-style: none;
+}
+
+ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+a {
+   color: black;
+   text-decoration: none;
+}
+
+p {
+   margin: 0;
+}
+
+/* header */
+
+.top_nav {
+   min-width: 1007px;
+}
+
+.top_nav a {
+   transition: all 0.15s linear;
+   color: #737881;
+   text-decoration: none;
+}
+
+.top_menu1 {
+   height: 62px;
+   text-align: center;
+}
+
+.top_menu1 a {
+   position: relative;
+   display: inline-block;
+   text-decoration: none;
+}
+
+.top_menu1 img {
+   vertical-align: top;
+}
+
+.top_menu2 {
+   height: 62px;
+   margin-top: -62px;
+   padding-left: 1px;
+}
+
+.top_menu3 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   display: block;
+   width: 107px;
+   height: 62px;
+}
+
+.top_menu3 a {
+   display: block;
+   padding: 23px 23px 21px;
+   font: 16px;
+   color: #17191d;
+}
+
+.top_menu4 {
+   width: 18px;
+   height: 16px;
+   margin: 1px 11px 0 0;
+   background-color: #17191d;
+   transition: all 15s linear;
+   display: inline-block;
+   zoom: 1;
+   background: transparent url(https://rs.nxfs.nexon.com/gnb/images/set_gnb.png) 0 0 no-repeat;
+}
+
+.top_menu5 {
+   position: absolute;
+   top: 0;
+   right: 0;
+   height: 62px;
+   padding-right: 11px;
+   text-align: right;
+}
+
+.top_menu6 {
+   display: inline-block;
+   zoom: 1;
+}
+
+.top_menu6 a {
+   height: 62px;
+   padding: 21px 5px 0 6px;
+}
+
+.top_menu7 {
+   width: 22px;
+   height: 22px;
+   background: #191919 url(https://rs.nxfs.nexon.com/gnb/images/set_gnb_icon.png) 0 0 no-repeat;
+}
