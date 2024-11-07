@@ -67,7 +67,7 @@ p {
 
 .nav_menu2 .nav_menu3 a {
    display: block;
-   padding: 23px 23px 21px;
+   /* padding: 23px 23px 21px; */
    font: 16px;
    color: #17191d;
 }
