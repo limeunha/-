@@ -31,3 +31,53 @@ p {
 }
 
 /* header */
+
+.nav_menu {
+   width: 1007px;
+}
+
+.nav_menu1 {
+   height: 62px;
+   text-align: center;
+}
+
+.nav_menu .nav_menu1 a {
+   position: relative;
+   display: inline-block;
+}
+
+.nav_menu .nav_menu1 img {
+   vertical-align: top;
+}
+
+.nav_menu2 {
+   height: 62px;
+   margin-top: -62px;
+   padding-left: 1px;
+}
+
+.nav_menu3 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   display: block;
+   width: 107px;
+   height: 62px;
+}
+
+.nav_menu2 .nav_menu3 a {
+   display: block;
+   padding: 23px 23px 21px;
+   font: 16px;
+   color: #17191d;
+}
+
+.nav_menu4 {
+   width: 18px;
+   height: 16px;
+   margin: 1px 11px 0 0;
+   transition: all 0.15s linear;
+   display: inline-block;
+   zoom: 1;
+   background-color: transparent url(https://rs.nxfs.nexon.com/gnb/images/set_gnb.png) 0 0 no-repeat;
+}
