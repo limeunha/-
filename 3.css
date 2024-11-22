@@ -282,7 +282,8 @@ p {
 }
 
 .footer_sns12 {
-   color: #f8f9fab3;
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
 }
 
 .footer_sns13 {
@@ -291,10 +292,56 @@ p {
 }
 
 .footer_sns13 a {
-   color: rgba(248 249 250 7);
+   color: rgba(248, 249, 250, 7);
    letter-spacing: -0.3px;
 }
 
 .footer_sns14 {
-   color: #f8f9fab3;
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
+}
+
+.footer_sns15 {
+   display: inline-block;
+}
+
+.footer_sns15 a {
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
+}
+
+.footer_sns17 {
+   display: inline-block;
+}
+
+.footer_sns17 a {
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
+}
+
+.footer_sns19 {
+   display: inline-block;
+}
+
+.footer_sns19 a {
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
+}
+
+.footer_sns21 {
+   display: inline-block;
+}
+
+.footer_sns21 a {
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
+}
+
+.footer_sns23 {
+   display: inline-block;
+}
+
+.footer_sns23 a {
+   color: rgba(248, 249, 250, 7);
+   letter-spacing: -0.3px;
 }
